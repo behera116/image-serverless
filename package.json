@@ -1,0 +1,26 @@
+{
+  "name": "serverless-image",
+  "version": "1.0.0",
+  "description": "NodeJS for severless image processing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/behera116/image-serverless.git"
+  },
+  "author": "Ananda Behera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/behera116/image-serverless/issues"
+  },
+  "homepage": "https://github.com/behera116/image-serverless#readme",
+  "devDependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3"
+  },
+  "dependencies": {
+    "sharp": "^0.20.2"
+  }
+}
